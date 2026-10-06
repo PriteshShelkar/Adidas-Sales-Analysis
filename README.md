@@ -131,4 +131,4 @@ It helps identify:
 
 Below is a snapshot of the Adidas Sales Analytics Dashboard:
 
-![Adidas Sales Analytics Dashboard]()
+![Adidas Sales Analytics Dashboard](https://raw.githubusercontent.com/PriteshShelkar/Adidas-Sales-Analysis/refs/heads/main/Adidas_sales.png)
